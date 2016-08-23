@@ -1,0 +1,36 @@
+<ASX VERSION="3.0" PREVIEWMODE="NO">
+  <PARAM NAME="Encoding" VALUE="UTF-8" />
+  <PARAM NAME="M4DVersion" VALUE="4.0.0" />
+  <PARAM NAME="M4DOverlay_format" VALUE="1920/1080" />
+  <PARAM NAME="M4DBanner_text" VALUE="Texte du bandeau de la séquence A" />
+  <PARAM NAME="M4DBanner_bounds" VALUE="left:0.28073 top:0.88241 right:0.98073 bottom:0.95093 alpha:0.79" />
+  <PARAM NAME="M4DBanner_style" VALUE="static #ffffff/#26c998 italic left &quot;Symbol&quot;" />
+  <PARAM NAME="M4DMask_image" VALUE="(public)/Photo Silicium.jpg" VALUEID="6491" />
+  <PARAM NAME="M4DMask_bounds" VALUE="left:0.77865 top:0.05278 right:0.95313 bottom:0.29908" />
+  <REPEAT>
+    <ENTRY>
+      <REF ID="6479" HREF="file://(public)/images/Logo_ Econocom/DFAN_CMJN_BLUE_HD.png" />
+      <DURATION VALUE="00:00:05.000" />
+      <PARAM NAME="M4DTransition" VALUE="DXImageTransform.Microsoft.Fade" />
+      <PARAM NAME="M4DMediaType" VALUE="image" />
+      <PARAM NAME="M4DValidityBeginDate" VALUE="2016/08/02 00:00:00" />
+      <PARAM NAME="M4DValidityEndDate" VALUE="2016/08/25 00:00:00" />
+      <PARAM NAME="M4DLayout" VALUE="Fit" />
+      <PARAM NAME="M4DId" VALUE="1" />
+    </ENTRY>
+    <ENTRY>
+      <REF ID="7514" HREF="file://(public)/Sample.mpg" />
+      <PARAM NAME="M4DMediaType" VALUE="video" />
+      <PARAM NAME="M4DLayout" VALUE="Stretch" />
+      <PARAM NAME="M4DId" VALUE="2" />
+    </ENTRY>
+    <ENTRY>
+      <REF ID="12543" HREF="file://(public)/apollo11_eva1_1920x1200.jpg" />
+      <DURATION VALUE="00:00:12.000" />
+      <PARAM NAME="M4DMediaType" VALUE="image" />
+      <PARAM NAME="M4DValidityBeginDate" VALUE="2016/08/26 00:00:00" />
+      <PARAM NAME="M4DLayout" VALUE="Stretch" />
+      <PARAM NAME="M4DId" VALUE="3" />
+    </ENTRY>
+  </REPEAT>
+</ASX>
